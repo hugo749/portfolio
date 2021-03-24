@@ -302,7 +302,6 @@ body {
         -webkit-transform: translateY(-9px) rotate(135deg);
     }
 }
-
 @keyframes inBtm {
     0% {
         transform: translateY(0px) rotate(0deg);
